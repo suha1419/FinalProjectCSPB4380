@@ -11,10 +11,10 @@ Run Module:
 Download Notebook and install the following packages.
 Easiest to do on Google Collab and Change Runtime to T4 GPU
 
-!pip install "transformers>=4.30.0"
-!pip install datasets
-!pip install torch
-!pip install scikit-learn
-!pip install evaluate
-!pip install accelerate
+1) !pip install "transformers>=4.30.0"
+2) !pip install datasets
+3) !pip install torch
+4) !pip install scikit-learn
+5) !pip install evaluate
+6) !pip install accelerate
 
