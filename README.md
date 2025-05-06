@@ -1,7 +1,6 @@
 # FinalProjectCSPB4380
 Financial Sentiment Analysis
 
-
 Install these packages:
 !pip install "transformers>=4.30.0"
 !pip install datasets
@@ -12,3 +11,6 @@ Install these packages:
 
 
 Use google collab and run on T4 GPU for faster execution
+
+
+
